@@ -1,4 +1,4 @@
-[← Volver al inicio] (README.md)
+[← Volver al inicio](README.md)
 # Segundo trimestre
 
 ## Cómo se añade una entrada
