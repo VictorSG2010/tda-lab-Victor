@@ -1,16 +1,12 @@
 [← Volver al inicio](README.md)
 # Temas del curso
 
-Aquí van las entradas sobre lo que va pasando fuera de clase: una noticia, un artículo,
-algo que ha salido y tiene que ver con lo que estamos dando.
+### 18/9/26 - Mis aficiones
 
-Las propone el profesor a lo largo del curso. **La más reciente, arriba.** Diez líneas de máximo.
+Llevo jugando balonmano desde los 7 años,
+antes de eso, hacia taekwondo y ahora me estoy centrando mucho más en el gimnasio,
+por lo que se podría decir que mi afición es el deporte en general.
+Siempre me han gustado mucho los deportes de pelota,
+ya sea baloncesto,futbol o el ya mencionado balonmano
 
-```
-### Título del tema — fecha
-
-**De dónde sale:** el artículo, vídeo o noticia (pon el enlace).
-**La frase que me chocó:** cópiala tal cual, entre comillas.
-**Por qué me chocó a mí:** aquí es donde escribes tú.
-**Qué tiene que ver con clase:** con qué actividad o tema lo relacionas.
-```
+![Yo y mi equipo hace unos años]
