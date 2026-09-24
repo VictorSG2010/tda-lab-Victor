@@ -1,4 +1,4 @@
-# TDA Lab de [Víctor Sosa]
+# TDA Lab de Víctor Sosa
 
 **[1ºA Bach ] · Curso 2026-2027**
 
