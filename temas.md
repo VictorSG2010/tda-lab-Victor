@@ -9,4 +9,4 @@ por lo que se podría decir que mi afición es el deporte en general.
 Siempre me han gustado mucho los deportes de pelota,
 ya sea baloncesto,futbol o el ya mencionado balonmano
 
-![Yo y mi equipo hace unos años]
+![Yo y mi equipo hace unos años](Cadete_masculino_A_balonmano_base_oviedo.jpg)
