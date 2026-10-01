@@ -12,3 +12,14 @@ ya sea baloncesto,futbol o el ya mencionado balonmano
 ![Yo y mi equipo hace unos años](capturas/Cadete_masculino_A_balonmano_base_oviedo.jpg)
 
 [Buscando en Github he encontrado:](https://github.com/djbrown/hbscorez)
+
+
+
+###1/10 · Premios princesa de Asturias: Bóveda global de semillas de Svalbard
+
+He elegido la bóveda global de semillas de Svalbard para hacer el trabajo de los premios princesa
+Ésta bóveda construida en el 2008 en el archipiélago noruego de Svalbard, en la isla de Spitsbergen
+fue construido con la intención de guardar semillas en caso de falta de alimento 48
+por guerras, desastres naturales, etc...
+Fue galardonado debido a demostrar su eficacia durante conflictos bélicos, suministrando alimento
+a toda la población.
