@@ -15,7 +15,7 @@ ya sea baloncesto,futbol o el ya mencionado balonmano
 
 
 
-###1/10 · Premios princesa de Asturias: Bóveda global de semillas de Svalbard###
+##1/10 · Premios princesa de Asturias: Bóveda global de semillas de Svalbard##
 
 He elegido la bóveda global de semillas de Svalbard para hacer el trabajo de los premios princesa
 Ésta bóveda construida en el 2008 en el archipiélago noruego de Svalbard, en la isla de Spitsbergen
