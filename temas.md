@@ -23,3 +23,5 @@ fue construido con la intención de guardar semillas en caso de falta de aliment
 por guerras, desastres naturales, etc...
 Fue galardonado debido a demostrar su eficacia durante conflictos bélicos, suministrando alimento
 a toda la población.
+[Su página en la fundación](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-boveda-global-de-semillas-svalbard/?texto=trayectoria)
+![Bóveda de semillas de Svalbard](capturas/semillas.jpg)
