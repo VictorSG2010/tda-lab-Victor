@@ -32,6 +32,6 @@ a toda la población.
 
 Ada Lovelace (1815–1852) fue una matemática y escritora británica,
 reconocida universalmente como la primera persona programadora de la historia
-Se celebra anualmente cada segundo martes de octubre (impulsado desde 2009).
+Su día se celebra anualmente cada segundo martes de octubre (impulsado desde 2009).
 El objetivo de la efeméride es reconocer y homenajear los logros de las mujeres en los campos de la ciencia,
 la tecnología, la ingeniería y las matemáticas 
