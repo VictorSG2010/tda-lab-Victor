@@ -27,3 +27,11 @@ a toda la población.
 [Su página en la fundación](https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-boveda-global-de-semillas-svalbard/?texto=trayectoria)
 
 ![Bóveda de semillas de Svalbard](capturas/semillas.jpg)
+
+16/10/2026 · Ada Lovelace
+
+Ada Lovelace (1815–1852) fue una matemática y escritora británica,
+reconocida universalmente como la primera persona programadora de la historia
+Se celebra anualmente cada segundo martes de octubre (impulsado desde 2009).
+El objetivo de la efeméride es reconocer y homenajear los logros de las mujeres en los campos de la ciencia,
+la tecnología, la ingeniería y las matemáticas 
