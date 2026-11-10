@@ -35,3 +35,8 @@ reconocida universalmente como la primera persona programadora de la historia
 Su día se celebra anualmente cada segundo martes de octubre (impulsado desde 2009).
 El objetivo de la efeméride es reconocer y homenajear los logros de las mujeres en los campos de la ciencia,
 la tecnología, la ingeniería y las matemáticas 
+
+[Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
+
+![Imagen de Lovelace](capturas/ada.jpg.jpg){: width="300"}
+[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg)
