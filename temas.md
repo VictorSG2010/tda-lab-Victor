@@ -38,5 +38,5 @@ la tecnología, la ingeniería y las matemáticas
 
 [Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
 
-![Imagen de Lovelace](capturas/ada.jpg.jpg){: width="300"}
+![Imagen de Lovelace](capturas/Ada.jpg){: width="300"}
 [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg)
